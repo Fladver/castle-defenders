@@ -111,3 +111,5 @@ img { max-width: 100%; display: block; }
   .hero-art { height: 240px; }
   .doc .paper { margin: 16px; padding: 20px; }
 }
+
+.note { margin-top: 14px; font-size: 14px; opacity: 0.75; max-width: 520px; }
